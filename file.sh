@@ -1,5 +1,5 @@
 #!/bin/bash
-touch files{1..6}
+touch files{1..9}
 date
-rm files{1..6}
+rm files{1..9}
 
